@@ -20,11 +20,7 @@ That's all for now.
 * **Age**: 17 
 * **Living in**: Volta Redonda - RJ, Brazil 
 * **Stack**: *Working on it*
-* **Learning**: HTML - CSS
- 
-   ## Contributions :
-
-![d4ndev Github stats](https://github-readme-stats.vercel.app/api?username=d4ndev&show_icons=true&theme=dracula)
+* **Learning**: HTML - CSS - Javascript
  
  ##
   
