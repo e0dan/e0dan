@@ -36,10 +36,7 @@ That's all for now.
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=blue">
   </a>
   
-  <!-- Github -->
-   <a target="_blank" href="https://github.com/d4ndev">
- <img alt="Github" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white">
-  </a>
+  
   
 
  
