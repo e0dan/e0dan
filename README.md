@@ -22,8 +22,6 @@ That's all for now.
 * **Living in**: Volta Redonda - RJ, Brazil 
 * **Stack**: *Working on it*
 * **Learning**: HTML - CSS - Javascript
-
- #
   
  <p align="center">
  
@@ -36,6 +34,9 @@ That's all for now.
   <a target="_blank" href="https://www.linkedin.com/in/danielmarra/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=blue">
   </a>
+  
+   
+   #
    
   <p align="right"> <img src="https://komarev.com/ghpvc/?username=d4ndev" alt="d4ndev" /> </p>
 
