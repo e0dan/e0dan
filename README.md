@@ -2,6 +2,7 @@
 
 See a little about me
 
+
 ## About me
 
 My name is Daniel Marra. I live in Volta Redonda - RJ. 
@@ -16,13 +17,13 @@ That's all for now.
 
 ##  Detailed Information
 
-* **Name**: Daniel Alberto Marra da Silva 
+* **Name**: Daniel Marra 
 * **Age**: 17 
 * **Living in**: Volta Redonda - RJ, Brazil 
 * **Stack**: *Working on it*
 * **Learning**: HTML - CSS - Javascript
- 
- ##
+
+ #
   
  <p align="center">
  
@@ -35,9 +36,8 @@ That's all for now.
   <a target="_blank" href="https://www.linkedin.com/in/danielmarra/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=blue">
   </a>
-  
-  
-  
+   
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=d4ndev" alt="d4ndev" /> </p>
 
  
 
