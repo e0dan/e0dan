@@ -1,24 +1,16 @@
 ## Hello there   
 
-See a little about me
+My name is Daniel and I recently turned 18.
+I was confused about what career to pursue, and after watching some videos on programming and web development,
+the way that the developers spoke and demonstrated how much they liked what they did, I was delighted.
 
-
-## About me
-
-My name is Daniel Marra. I live in Volta Redonda - RJ. 
-At the moment, I just finished high school and I am studying programming by myself and I play a little guitar.
-
-I dream of pursuing this career, so I'm dedicating myself and breaking my head of course haha.
-I am working every day to improve my soft skills, I value these skills.
-
-Last but not least. I dream of living abroad. I love my homeland, but I want to have that experience. 
-That's all for now.
-
+Since then I study web development and English every day in a self-taught way in search of becoming a developer too.
+I never really thought about technology, how exciting and fun it is. It was love at first sight haha
 
 ##  Detailed Information
 
 * **Name**: Daniel Marra 
-* **Age**: 17 
+* **Age**: 18
 * **Living in**: Volta Redonda - RJ, Brazil 
 * **Stack**: *Working on it*
 * **Learning**: HTML - CSS - Javascript
