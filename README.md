@@ -1,19 +1,15 @@
 ## Hello there   
 
-My name is Daniel and I recently turned 18.
-I was confused about what career to pursue, and after watching some videos on programming and web development,
-the way that the developers spoke and demonstrated how much they liked what they did, I was delighted.
-
-Since then I study web development and English every day in a self-taught way in search of becoming a developer too.
-I never really thought about technology, how exciting and fun it is. It was love at first sight haha
+My name is Daniel, I am 18 years old. I am a beginner in web development.
+I was confused about which career to pursue, and as soon as I saw videos about programming and web development, the way the developers talked and helped each other and demonstrated how much they liked what they did, I was delighted.
+Since then I study self-taught web development in search of becoming a developer as well. I never really thought about technology, how exciting and fun it is. Was it love at first sight, kind of cliché? Yes haha, but it is a fact
 
 ##  Detailed Information
 
 * **Name**: Daniel Marra 
 * **Age**: 18
 * **Living in**: Volta Redonda - RJ, Brazil 
-* **Stack**: *Working on it*
-* **Learning**: HTML - CSS - Javascript
+* **Stack**: HTML - CSS - JS
   
  <p align="center">
  
@@ -30,7 +26,7 @@ I never really thought about technology, how exciting and fun it is. It was love
    
    #
    
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=d4ndev" alt="d4ndev" /> </p>
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=daniellmarra" alt="daniellmarra" /> </p>
 
  
 
