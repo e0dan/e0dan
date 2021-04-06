@@ -7,7 +7,7 @@ This is my github account!
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellmarra&langs_count=3&theme=onedark)
-![Daniell Marra's](https://github-readme-stats.vercel.app/api?username=daniellmarra&show_icons=true&theme=onedark)
+![Stats](https://github-readme-stats.vercel.app/api?username=daniellmarra&show_icons=true&theme=onedark)
 
 
 Current stack 👉
