@@ -1,33 +1,17 @@
-## Hello there   
+## Hello world <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Daniel. I am a young frontend developer.    
 
-My name is Daniel and I am 18 years old. I'm a beginner in web development.
-When I graduated from high school, I was confused about which career to pursue, and as soon as I saw videos about programming and web development, the way the developers talked and helped each other and demonstrated how much they like what they do, I was delighted.
 
-Since then, I study web development in a self-taught way, in search of becoming a developer too. I never really thought about technology, how exciting and fun it is. Was it love at first sight, does it sound a little cliché? Yes haha, but it's a fact
+I am currently learning HTML, CSS and JavaScript.
 
-##  Detailed Information
+This is my github account!
 
-* **Name**: Daniel Marra 
-* **Age**: 18
-* **Living in**: Volta Redonda - RJ, Brazil 
-* **Stack**: HTML - CSS - JS
-  
- <p align="center">
- 
-   <!-- Gmail -->
-   <a target="_blank" href="mailto:heydanieldev@gmail.com">
- <img alt="Contact" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white">
-  </a>
-  
-   <!-- LinkedIn -->
-  <a target="_blank" href="https://www.linkedin.com/in/danielmarra/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=blue">
-  </a>
-  
-   
-   
-   
- 
- 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellmarra&langs_count=3&theme=onedark)
+![Daniell Marra's](https://github-readme-stats.vercel.app/api?username=daniellmarra&show_icons=true&theme=onedark)
+
+
+Current stack 👉
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
