@@ -1,4 +1,4 @@
-## Hello world <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Daniel. I am a young frontend developer.    
+## Hello world <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Daniel. I am a young front-end developer.    
 
 
 I am currently learning HTML, CSS and JavaScript.
